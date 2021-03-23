@@ -1,0 +1,1 @@
+Convert a floating point decimal number to a binary string format.
